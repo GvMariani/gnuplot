@@ -28,6 +28,7 @@ BuildRequires:	fontconfig
 BuildRequires:	emacs-bin
 BuildRequires:	latex2html
 BuildRequires:	latex-picins
+BuildRequires:	make
 BuildRequires:	slibtool
 BuildRequires:	texinfo
 BuildRequires:	texlive-epstopdf
